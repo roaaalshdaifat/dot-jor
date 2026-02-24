@@ -1,0 +1,23 @@
+p{
+display: block;
+            background-color: #f8c471;
+            margin: 20px;
+            padding: 20px;
+              font-weight: bold;
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 20px;
+            line-height: 20px;
+            color: #000000;
+          
+          border: 2px solid #000000;
+          text-align: center;
+
+}
+h1{
+  text-align: center;
+  color: #ffffff;
+  background-color: #5dade2;
+  padding: 15px;
+  border: 2px solid #000000;
+  font-family: "Arial", sans-serif;
+}
